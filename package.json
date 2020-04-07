@@ -1,0 +1,33 @@
+{
+  "name": "tiny-lazy-img",
+  "version": "1.0.0",
+  "description": "图片懒加载",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./demo/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackie-gan/tiny-lazy-img.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackie-gan/tiny-lazy-img/issues"
+  },
+  "homepage": "https://github.com/jackie-gan/tiny-lazy-img#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "@vue/component-compiler-utils": "^3.1.1",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.3",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "dependencies": {
+    "vue-hot-reload-api": "^2.3.4"
+  }
+}
